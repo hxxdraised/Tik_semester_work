@@ -1,4 +1,5 @@
-# Tik_semester_work
+## Семестровая работа по дисциплине «Теория информации и кодирования»
+
 
 **Декодер Шенона** (кодер находится тут https://github.com/F4nnur/semestr-work-TIK-Akhmetov)<br />
 ```python shannon.py```<br />
