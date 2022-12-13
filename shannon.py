@@ -1,4 +1,3 @@
-# http://www.codenet.ru/progr/alg/25.php
 # Shannon decoder
 # Sample input:
 # 4
